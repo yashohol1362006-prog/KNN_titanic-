@@ -76,7 +76,7 @@ The scaler was fitted only on the training data and then used to transform both 
 
 ## 🤖 Model
 
-The machine learning algorithm used is:
+The machine learning algorithm used is: 
 
 **K-Nearest Neighbors (KNN)**
 
