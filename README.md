@@ -3,7 +3,7 @@
 A beginner machine learning project that predicts whether a Titanic passenger survived or not using the **K-Nearest Neighbors (KNN)** classification algorithm.
 
 ## 📌 Project Overview
-
+ 
 The goal of this project is to build a KNN classification model using the Titanic dataset and predict passenger survival based on features such as:
 
 - Passenger class
