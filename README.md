@@ -7,7 +7,7 @@ A beginner machine learning project that predicts whether a Titanic passenger su
 The goal of this project is to build a KNN classification model using the Titanic dataset and predict passenger survival based on features such as:
 
 - Passenger class
-- Sex
+- Sex 
 - Age
 - Number of siblings/spouses aboard
 - Number of parents/children aboard 
