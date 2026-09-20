@@ -8,7 +8,7 @@ The goal of this project is to build a KNN classification model using the Titani
 
 - Passenger class
 - Sex 
-- Age
+- Age 
 - Number of siblings/spouses aboard
 - Number of parents/children aboard 
 - Fare
