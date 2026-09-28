@@ -13,7 +13,7 @@ The goal of this project is to build a KNN classification model using the Titani
 - Number of parents/children aboard 
 - Fare
 - Port of embarkation
-
+ 
 The project focuses on understanding the basic machine learning workflow, including data preprocessing, feature encoding, feature scaling, model training, and prediction.
 
 ## 📊 Dataset
