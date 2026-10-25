@@ -16,7 +16,7 @@ The goal of this project is to build a KNN classification model using the Titani
  
 The project focuses on understanding the basic machine learning workflow, including data preprocessing, feature encoding, feature scaling, model training, and prediction.
 
-## 📊 Dataset
+## 📊 Dataset 
 
 The Titanic dataset is obtained using the **Seaborn** library.
 
